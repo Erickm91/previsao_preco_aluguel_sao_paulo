@@ -6,7 +6,7 @@ Projeto de Ciência de Dados focado na previsão de valores de aluguel na cidade
 Desenvolver um modelo capaz de estimar o valor de aluguel de imóveis com base em suas características, auxiliando na análise de mercado e tomada de decisão.
 
 ## 🧠 Modelos Utilizados
-Foram testados diferentes algoritmos de regressão:
+Foram testados diferentes modelos de regressão para avaliar o desempenho:
 
 - Decision Tree  
 - Linear Regression  
